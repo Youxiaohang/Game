@@ -1,2 +1,2 @@
-public class wqwe {
+public class wqwe {sdadas
 }
